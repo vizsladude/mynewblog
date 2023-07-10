@@ -1,6 +1,10 @@
+title: Without continual growth and progress, such words as improvement, achievement, and success have no meaning. Benjamin Franklin.
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# PYTHON
+I will present here my learning journey as well as tips / struggles towards learning Python. Hopefully it will be useful not only for me, but also for other learners.
 
-layout: home
----
+## ABOUT
+1. app support transforming towards *devops*
+2. current goal is to learn **python**
+
+   ![My doggo](https://www.akc.org/wp-content/uploads/2017/11/Vizsla-MP.jpg)
